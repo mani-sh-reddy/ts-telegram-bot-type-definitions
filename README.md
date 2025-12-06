@@ -7,12 +7,13 @@ Complete, production-ready TypeScript type definitions for the **Telegram Bot AP
 
 ## Features
 
-✅ **200+ complete type definitions** - All core types from Telegram Bot API 9.2
-✅ **Well-organized** - Grouped into logical sections (Messages, Media, Users/Chats, Keyboards, etc.)
-✅ **Type-safe discriminated unions** - `MessageOrigin`, `ChatMember`, `BackgroundType`, etc.
-✅ **Zero dependencies** - Pure TypeScript types, no runtime code
-✅ **Full inline documentation** - JSDoc comments throughout
-✅ **All new features** - Business accounts, paid media, gifts, boosts, stories, and more
+- ✅ **200+ complete type definitions** - All core types from Telegram Bot API 9.2  
+- ✅ **Well-organized** - Grouped into logical sections (Messages, Media, Users/Chats, Keyboards, etc.)  
+- ✅ **Type-safe discriminated unions** - `MessageOrigin`, `ChatMember`, `BackgroundType`, etc.  
+- ✅ **Zero dependencies** - Pure TypeScript types, no runtime code  
+- ✅ **Full inline documentation** - JSDoc comments throughout  
+- ✅ **All new features** - Business accounts, paid media, gifts, boosts, stories, and more  
+- ✅ **Production-ready** - Used in real Telegram bots  
 
 ## Installation
 
@@ -132,13 +133,6 @@ if (response.ok && response.result) {
   // Use result safely
 }
 ```
-
-## Version History
-
-### 1.0.0 (Current)
-- Initial release with full Telegram Bot API 9.2 support
-- 200+ type definitions
-- All core features included
 
 ## Contributing
 
