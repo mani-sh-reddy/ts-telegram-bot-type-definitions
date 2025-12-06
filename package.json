@@ -2,8 +2,7 @@
   "name": "@mani-sh-reddy/ts-telegram-bot-type-definitions",
   "version": "1.0.0",
   "description": "Complete TypeScript type definitions for Telegram Bot API 9.2",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/types.d.ts",
   "files": [
     "dist",
     "README.md",
