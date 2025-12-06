@@ -11,9 +11,6 @@ Complete, production-ready TypeScript type definitions for the **Telegram Bot AP
 - ✅ **Well-organized** - Grouped into logical sections (Messages, Media, Users/Chats, Keyboards, etc.)  
 - ✅ **Type-safe discriminated unions** - `MessageOrigin`, `ChatMember`, `BackgroundType`, etc.  
 - ✅ **Zero dependencies** - Pure TypeScript types, no runtime code  
-- ✅ **Full inline documentation** - JSDoc comments throughout  
-- ✅ **All new features** - Business accounts, paid media, gifts, boosts, stories, and more  
-- ✅ **Production-ready** - Used in real Telegram bots  
 
 ## Installation
 
